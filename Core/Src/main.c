@@ -129,6 +129,7 @@ int main(void) {
 	while (1) {
 		/* USER CODE END WHILE */
 		/* USER CODE BEGIN 3 */
+
 		 /* @brief		functions set such that the respective memory operations are carried out by
 		 * 				status of gpio pin
 		 * 				the conditions can be changed accordingly */
