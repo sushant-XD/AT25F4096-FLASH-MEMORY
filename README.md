@@ -11,6 +11,8 @@ Please refer to AT25F4096 datasheet.
 
 
 -----------------Ignore these---------------------------
+
+
 STM32 external flash programming
 SPI flash memory running code example
 Proteus flash memory simulation
